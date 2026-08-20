@@ -7251,7 +7251,7 @@ code {
   --background-size: cover; /* app background size (px) [default: cover] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
   --background-filter: blur(
-    0px
+    3.5px
   ); /* app background adjustments (ex: blur, saturation, brightness) (more info: https://developer.mozilla.org/en-US/docs/Web/CSS/filter) [default: saturate(calc(var(--saturation-factor, 1) * 1))] */
 
   /* USER POPOUT BACKGROUND */
